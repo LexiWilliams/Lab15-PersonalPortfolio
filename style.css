@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    background-image: url(spinny.gif);
+    color: coral;
+}
+div{
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 100;
+    padding-bottom: 100px;
+}
+p{
+    text-align: center;
+    color: black;
+     padding-left:30px;
+     padding-right: 30px;
+     padding-top:30px;
+     padding-bottom: 30px;
+     background-color: aqua
+ }
+ a{
+color: coral;
+ }
+ .footer {
+    position: fixed;
+    text-align:center;
+    padding-top:250px;
+    scroll-padding-bottom: 0px;
+    left: 0;
+    bottom: 0;
+    width: 80%;
+    height:.5%
+  }
